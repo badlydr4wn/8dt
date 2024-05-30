@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="media/stylesheet.css">
+    <title>Store - Perfect Petroleum</title>
+</head>
+<body>
+    <center>
+        <img src="media/logo.png" alt="" class="logo">
+    </center>
+    <center>
+        <a href="/home.html">Home</a>
+        <a href="/products.html" class="active">Products</a>
+        <a href="/business.html">Business</a>
+    </center>
+    <hr>
+    <h1>Products</h1>
+    <p>Check out our range of products available in-store today for purchase.</p>
+    <h2>Online Shop</h2>
+    <ol>
+        <li>
+            <p>
+                <b>Coffee </b><br>
+                $5.99,
+                300mL
+                <br>
+                <img src="media/coffee.png" alt="" style="height: 220px;">
+                <br>
+                <button onclick="alert('Thank you for your purchase!')">Buy</button>
+            </p>
+        </li>
+        <li>
+            <p>
+                <b>Assorted Chips</b><br>
+                $4.99,
+                250g
+                <br>
+                <img src="media/chips.png" alt="">
+                <br>
+                <button onclick="alert('Thank you for your purchase!')">Buy</button>
+            </p>
+        </li>
+        <li>
+            <p>
+                <b>Assorted Chocolate/Candy</b><br>
+                $2.49,
+                100g
+                <br>
+                <img src="media/candy.png" alt="">
+                <br>
+                <button onclick="alert('Thank you for your purchase!')">Buy</button>
+            </p>
+        </li>
+        <li>
+            <p>
+                <b>Spring Water</b><br>
+                $6.49,
+                500mL
+                <br>
+                <img src="media/water.png" alt="">
+                <br>
+                <button onclick="alert('Thank you for your purchase!')">Buy</button>
+            </p>
+        </li>
+        <li>
+            <p>
+                <b>Cigarettes (18+)</b><br>
+                $34.99,
+                25pk
+                <br>
+                <img src="media/cigs.png" alt="">
+                <br>
+                <input type="checkbox" name="checkbox" id="checkbox" onchange="document.getElementById('cig').disabled=!document.getElementById('cig').disabled">I am 18+<br>
+                <button id="cig" disabled="disabled" onclick="alert('Thank you for your purchase!')">Buy (Age Verification Required)</button>
+            </p>
+        </li>
+    </ol>
+</body>
+</html>

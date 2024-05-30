@@ -1,0 +1,16 @@
+TRANSACTION_ID, FIRST_NAME, LAST_NAME, DATE_TIME, ITEM_NAME, ITEM_COST, ITEM_QUANTITY, TOTAL_COST
+1,Olivia,Jones,2024-05-30 13:40:00,Coffee,5.99,2,11.98
+2,Liam,Smith,2024-05-30 13:40:00,Spring Water,6.49,3,19.47
+3,Noah,Miller,2024-05-30 13:40:00,Assorted Chips,4.99,1,4.99
+4,Mia,Johnson,2024-05-30 13:40:00,Cigarettes,34.99,1,34.99
+5,William,Brown,2024-05-30 13:40:00,Assorted Candy,2.49,2,4.98
+6,Ava,Wilson,2024-05-30 13:40:00,Coffee,5.99,1,5.99
+7,James,Taylor,2024-05-30 13:40:00,Spring Water,6.49,4,25.96
+8,Isabella,Garcia,2024-05-30 13:40:00,Assorted Chips,4.99,3,14.97
+9,Lucas,Thomas,2024-05-30 13:40:00,Cigarettes,34.99,2,69.98
+10,Sophia,Hernandez,2024-05-30 13:40:00,Assorted Candy,2.49,4,9.96
+11,Benjamin,Walker,2024-05-30 13:40:00,Coffee,5.99,3,17.97
+12,Charlotte,Lee,2024-05-30 13:40:00,Spring Water,6.49,2,12.98
+13,Elijah,Allen,2024-05-30 13:40:00,Assorted Chips,4.99,1,4.99
+14,Mia,Young,2024-05-30 13:40:00,Cigarettes,34.99,1,34.99
+15,Aiden,King,2024-05-30 13:40:00,Assorted Candy,2.49,2,4.98

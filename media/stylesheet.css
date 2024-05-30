@@ -1,0 +1,27 @@
+.logo {
+    height: 60px;
+}
+
+.active {
+    font-weight: bold;
+}
+
+center {
+    background-color: rgb(255, 255, 255);
+}
+
+p,h1,h2,h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+a {
+    font-size: 18px;
+    color: rgb(0, 174, 245);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+q {
+    font-style: italic;
+}
